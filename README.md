@@ -1,6 +1,6 @@
 # Applied Matter Landing
 
-Static landing page for `appliedmatter.xyz`.
+Static landing page for Applied Matter.
 
 ## Local preview
 
